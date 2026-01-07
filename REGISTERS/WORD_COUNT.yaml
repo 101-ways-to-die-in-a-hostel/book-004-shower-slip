@@ -1,0 +1,98 @@
+# Word Count Register
+# Updated automatically by Writer Agent
+
+book:
+  number: "004"
+  slug: "shower-slip"
+  target: 250000
+
+daily_log: []
+  # - date: "2026-01-06"
+  #   words_written: 5200
+  #   chapter: 1
+  #   cumulative: 5200
+
+weekly_summary: []
+  # - week: 1
+  #   start_date: "2026-01-06"
+  #   words_written: 35000
+  #   chapters_completed: 7
+  #   cumulative: 35000
+
+chapter_breakdown:
+  - chapter: 1
+    word_count: 4096
+    status: "complete"
+  - chapter: 2
+    word_count: 4037
+    status: "complete"
+  - chapter: 3
+    word_count: 4219
+    status: "complete"
+  - chapter: 4
+    word_count: 4020
+    status: "complete"
+  - chapter: 5
+    word_count: 4037
+    status: "complete"
+  - chapter: 6
+    word_count: 4162
+    status: "complete"
+  - chapter: 7
+    word_count: 4039
+    status: "complete"
+  - chapter: 8
+    word_count: 4119
+    status: "complete"
+  - chapter: 9
+    word_count: 4279
+    status: "complete"
+  - chapter: 10
+    word_count: 4061
+    status: "complete"
+  - chapter: 11
+    word_count: 4011
+    status: "complete"
+  - chapter: 12
+    word_count: 4072
+    status: "complete"
+  - chapter: 13
+    word_count: 4474
+    status: "complete"
+  - chapter: 14
+    word_count: 4370
+    status: "complete"
+  - chapter: 15
+    word_count: 4434
+    status: "complete"
+  - chapter: 17
+    word_count: 4061
+    status: "complete"
+  - chapter: 18
+    word_count: 4113
+    status: "complete"
+  - chapter: 19
+    word_count: 4210
+    status: "complete"
+  - chapter: 20
+    word_count: 4026
+    status: "complete"
+  - chapter: 21
+    word_count: 4312
+    status: "complete"
+  - chapter: 22
+    word_count: 4021
+    status: "complete"
+  # ... chapters 2-50 follow same pattern
+
+totals:
+  current: 87173
+  target: 250000
+  remaining: 162827
+  percentage: 34.87
+
+pace:
+  average_per_chapter: 3962
+  estimated_completion: "TBD"
+
+last_updated: "2026-01-06"
