@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A hungover party backpacker slips on the moldy, tile-less shower floor of a legendary party hostel, cracking his skull on the exposed pipe and bleeding out while everyone assumes he's just sleeping off another bender.",
     "long": ""
   },
   "death_type": "Shower Slip",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "He came to Prague to get wasted. The shower finished the job."
 }
